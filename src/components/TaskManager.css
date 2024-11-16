@@ -1,0 +1,35 @@
+.task-manager {
+    margin: 20px auto;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .task-manager h1 {
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
